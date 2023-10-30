@@ -7,7 +7,7 @@ The solution fulfills the following intents: forecasting and setting the necessa
 - **Execution:** this is the implementation phase. Nevertheless, architectural rectification and continuous update takes place during this stage as part of the agile framework adopted by Renault. A checklist of architectural compliance is to be respected to the fullest. 
 - **Running:** deployment, shipping and maintenance of the product. Changes to the architecture are highly considered during this phase based on experts’ and product owners’ remarks and judgement. 
 
-pic
+![](https://github.com/benseddikismail/ewallet/blob/main/img/architecture.png)
 
 | **ID** | **Entity/Actor**         | **OS**        | **Infrastructure**  | **Hosting** | **Technology**                     |
 | ------ | ------------------------ | ------------- | ------------------- | ----------- | ---------------------------------- |
